@@ -1,0 +1,22 @@
+/* tags */
+body {
+    text-align: center;
+}
+
+/* IDs */
+#login {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+
+#registre {
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
+
+/* Classes */
+.copy {
+    font-size: 16px;
+}
